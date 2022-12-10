@@ -4,7 +4,7 @@
         "start": "node server/app.js"
     },
     "devDependencies": {
-        "express": "^4.10.1",
+        "express": "^4.17.3",
         "grunt": "~0.4.5",
         "grunt-karma": "~0.9.0",
         "karma": "~0.12",
